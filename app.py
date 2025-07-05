@@ -32,7 +32,7 @@ except Exception as e:
 
 # Streamlit app
 st.title("Predicción de Clase")
-st.markdown("<h2 style='color: red;'>Elaborado por: Klaudialiliana</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='color: red;'>Elaborado por: juan rojas</h2>", unsafe_allow_html=True)
 
 st.write("Selecciona los valores para las entradas de las variables para realizar la predicción.")
 
